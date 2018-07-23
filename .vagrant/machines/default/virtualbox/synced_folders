@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/apps":{"guestpath":"/var/www/apps","hostpath":"/Users/joestrachan/vagrant-bash-provision","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/joestrachan/vagrant-bash-provision","disabled":false,"__vagrantfile":true}}}
