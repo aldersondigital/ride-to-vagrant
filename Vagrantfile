@@ -32,9 +32,9 @@ Vagrant.configure(2) do |config|
   # Forward port 80 to 8089.                              #
   #                                                       #
   #########################################################
-  config.vm.network "forwarded_port", guest: 80, host: 8091
-  config.vm.network "forwarded_port", guest: 8081, host: 8092
-  config.vm.network "forwarded_port", guest: 5000, host: 8093
+  config.vm.network "forwarded_port", guest: 80, host: 8094
+  config.vm.network "forwarded_port", guest: 8081, host: 8095
+  config.vm.network "forwarded_port", guest: 5000, host: 8096
 
   #########################################################
   #                                                       #
